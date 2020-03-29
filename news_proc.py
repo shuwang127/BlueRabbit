@@ -28,13 +28,20 @@ def main():
     print(likelihood)
     probs = TestNaiveBayes(prior, likelihood, dsetNew)
     print('[Info] Get the first-order probabilities from evaluation.')
-    print(probs)
     print('---------------------------------------------------------------------------------------')
     print('[Info] Combining the information from news.')
     probs = ProbsAdjust(probs, county, dsetNew, locKeywords, raceKeywords, contents)
-    print(probs)
     print('[Info] Get the second-oder probabilities from evaluation.')
-    Write2File()
+    Write2File(probs)
+    print('[Info] Analysis done!')
+    return
+
+def Write2File(probs):
+    # read csv file.
+    filePath = dataPath + '/datahub.csv'
+    dset = pd.read_csv(filePath)
+    dset['risk'] = probs
+    dset.to_csv(dataPath + '/risk.csv')
     return
 
 def ProbsAdjust(probs, county, dset, locKeywords, raceKeywords, contents):
