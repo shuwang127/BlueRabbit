@@ -1,0 +1,60 @@
+﻿Website,Name,Type,Star,Adress,,state,zipCode,Lat,Lon,LowestRoomPrice
+Booking.com,Qceans 2700,,3,2700 Pacific Avenue,Virginia Beach,VA,23451,36.855560,-75.978800,$47 
+Booking.com,Best Western Center Inn,Inn,3,5718 Northampton Boulevard,Virginia Beach,VA,23455,36.885450,-76.182280,$71 
+Booking.com,Knights Inn Virginia Beach,Motel,1,804 Lynnhaven Parkway,Virginia Beach,VA,23452,36.811820,-76.069050,$56 
+Booking.com,Something Near the Water,Apartment,,430 24th st #4,Virginia Beach,VA,23451,36.851180,-75.980700,$175 
+Booking.com,Angie's Guest Cottage,Hotel,,302 24th street,Virginia Beach ,VA,23451,36.851600,-75.977540,$79 
+Booking.com,Atlantic Hotle,Hotel,,203 19th Street,Virginia Beach ,VA,23451,36.847330,-75.975180,$42 
+Booking.com,Four Sails Resort,,,3301 Atlantic Avenue,Virginia Beach ,VA,23451,36.861630,-75.978230,$99 
+Booking.com,Quality Suites Lake Wright Norfold Airport,,,6280 Northampton Boulevard,Virginia Beach ,VA,23502,36.881200,-76.193430,$80 
+Booking.com,The Breakers Resort Inn,,,1503 Atlantic Avenue,Virginia Beach ,VA,23451,36.844300,-75.973510,$65 
+Booking.com,Comfort Inn & Suites Norfold Airport South Virginia,Inn,,5808 Burton Station Road,Virginia Beach ,VA,23455,36.882460,-76.188660,$67 
+Booking.com,Cutty Sark Efficiencies,,,3614 Atlantic Avenue,Virginia Beach ,VA,23451,36.864930,-75.979980,$69 
+Booking.com,Knights Inn & Suites Virginia Beach,Inn,,207 29th Street,Virginia Beach ,VA,23451,36.857540,-75.978540,$55 
+Booking.com,The Founders Inn & Spa Tapestry Collection By Hilton,,,5641 Indian River Road ,Virginia Beach ,VA,23464,36.802990,-76.190280,$119 
+Booking.com,Crowne Plaza Hotel Virginia Beach-Norfolk,,,4453 Bonney Road,Virginia Beach ,VA,23462,36.833980,-76.129920,$139 
+Booking.com,"Surfbreak Oceanfront Hotel, Ascend Htel Collection",,,1101 Atlantic Avenue,Virginia Beach ,VA,23451,36.839810,-75.972360,$144 
+Booking.com,Ramada Plaza by Wyndham Virginia Beach,,,2809 Atlantic Ave,Virginia Beach ,VA,23451,36.857140,-75.977226,$99 
+Booking.com,Best Western Plus Sandcastle Beachfront Hotel,,,1307 Atlantic Avenue,Virginia Beach ,VA,23451,36.842710,-75.973080,$102 
+Booking.com,Wyndham Virginia Beach Oceanfront,,,57th Street and Atlantic Avenue,Virginia Beach ,VA,23451,36.883340,-75.986550,$119 
+Booking.com,SpringHill Suites by Marriott Norfolk Virginia Beach,,,6350 Newtown Road,Virginia Beach ,VA,23502,36.855530,-76.177290,$107 
+Booking.com,Doubletree by Hilton Virginia Beach,Hotel,,1900 Pavilion Drive,Virginia Beach ,VA,23451,36.844900,-75.992150,$184 
+Booking.com,Hampton Inn Norfolk/Virginia Beach,Inn,,5793 Greenwich Road,Virginia Beach ,VA,23462,36.843200,-76.183050,$169 
+Booking.com,La Quinta by Wyndham Virginia Beach,Hotel,,2800 Pacific Ave,Virginia Beach ,VA,23451,36.856361,-75.979469,$152 
+Booking.com,The Oceanfront Inn - Virginia Beach,,,2901 Atlantic Avenue,Virginia Beach ,VA,23451,36.857940,-75.977440,$209 
+Booking.com,Neptune's Palace Condo,Apartment,3,40th Alanta Avenue,Virginia Beach ,VA,NA,36.884280,-76.277230,NA
+Booking.com,Capes Hotel,Hotel,,2001 Atlantic Avenue,Virginia Beach ,VA,23451,36.848490,-75.974720,$214 
+Booking.com,Holiday Inn Virginia Beach-Norfolk,Inn,,5655 Greenwich Road,Virginia Beach,VA,23462,36.843400,-76.180040,$114 
+Booking.com,Quality Inn and Suites Oceanfront,Inn,,705 Atlantic Avenue,Virginia Beach,VA,23451,36.836400,-75.971350,
+Hotel.com,Red Roof Inn PLUS+ Washington DC - Manassas,Inn,2.5,10610 Automotive Drive,Manassas,VA,20109,38.800360,-77.515600,$57 
+Hotel.com,Super 8 by Wyndham Manassas,Inn,2,8691 Phoenix Dr,Manassas,VA,20110,38.763920,-77.457050,$57 
+Hotel.com,Days Inn by Wyndham Manassas Battlefield,Inn,2,"7249 New Market Ct, I-66 Exit 47A and RT 234",Manassas,VA,20109-2437,38.799409,-77.520285,$58 
+Hotel.com,Days Inn by Wyndham Manassas,Inn,2.5,7611 Centreville Road,Manassas,VA,20111,38.759860,-77.462060,$58 
+Hotel.com,Olde Town Inn,Inn,2.5,10910 Balls Ford Rd,Manassas,VA,20109,38.800460,-77.525790,$63 
+Hotel.com,Comfort Suites Manassas Battlefield Park,,2.5,7350 Williamson Blvd,Manassas,VA,20109,38.795160,-77.516530,$71 
+Hotel.com,Quality Inn Manassas,,2.5,10653 Balls Ford Rd,Manassas,VA,20109,38.798070,-77.516280,$72 
+Hotel.com,La Quinta Inn & Suites by Wyndham Manassas,,2.5,6950 Nova Way,Manassas,VA,20109,38.806000,-77.519150,$75 
+Hotel.com,Best Western Battlefield Inn,,2.5,10820 Balls Ford Rd,Manassas,VA,20109,38.798640,-77.519890,$84 
+Hotel.com,Best Western Manassas,,2.5,8640 Mathis Ave,Manassas,VA,20110,38.767820,-77.457130,$88 
+Hotel.com,Holiday Inn Express and Suites Manassas,,2.5,10810 Battleview Pkwy,Manassas,VA,20109,38.805730,-77.520490,$95 
+Hotel.com,Candlewood Suites Manassas,,2.5,11220 Balls Ford Rd,Manassas,VA,20109,38.797570,-77.531620,$110 
+Hotel.com,Hampton Inn Manassas,Inn,2.5,7295 Williamson Blvd,Manassas,VA,20109,38.796160,-77.515840,$132 
+Hotel.com,Econo Lodge Near Quantico Marine Base,,2,17005 Dumfries Rd,Dumfries,VA,22025,38.583430,-77.329340,$50 
+Hotel.com,Motel 6 Dumfries,Motel,2,17133 Dumfries Rd,Dumfries,VA,22025,38.582230,-77.324580,$50 
+Hotel.com,Red Roof Inn Dumfries – Quantico,Inn,2,17113 Dumfries Road,Dumfries,VA,22025,38.582560,-77.322850,$51 
+Hotel.com,"Motel 6 Washington DC SW-Springfield, VA",Motel,2,6868 Springfield Blvd,Springfield ,VA,22150,38.777970,-77.183070,$54 
+Hotel.com,Days Inn by Wyndham Dumfries Quantico,Inn,2,16925 Old Stage Rd,Dumfries,VA,22026,38.572160,-77.315820,$55 
+Hotel.com,Vienna Wolf Trap Hotel,Hotel,2,430 Maple Avenue West,Vienna,VA,22180,38.895240,-77.272510,$56 
+Hotel.com,Red Roof Inn Warrenton,Inn,2,6 Broadview Ave,Warrenton,VA,20186,38.717830,-77.808830,$58 
+Hotel.com,Super 8 by Wyndham Dumfries/Quantico,,2,17416 Jefferson Davis Hwy,Dumfries,VA,22026,38.574560,-77.316080,$60 
+Hotel.com,Sleep Inn Near Quantico Main Gate,,2.5,17470 Jefferson Davis Hwy,Dumfries,VA,22026,38.573500,-77.317270,$61 
+Hotel.com,Red Roof Inn PLUS+ Washington DC - Alexandria ,,2,"5975 Richmond Highway, Belle Haven",Alexandria,VA,22303,38.787810,-77.065900,$64 
+Hotel.com,Red Carpet Inn,Motel,2,"25 Wico Mico Dr, I-95 Exit 143B Behind Wendy's",Stafford,VA,22554,38.469000,-77.413710,$66 
+Hotel.com,"Motel 6 Falls Church, VA – Arlington Boulevard",Motel,2,6652 ARLINGTON BLVD,Falls Church,VA,22042,38.870160,-77.173350,$66 
+Hotel.com,The Virginia Lodge,Motel,2,6027 Richmond Highway,Alexandria,VA,22303,38.792480,-77.056570,$67 
+Hotel.com,Quality Inn Mt. Vernon,Motel,2.5,"7212 Richmond Hwy, Groveton ",Alexandria,VA,22306,38.761460,-77.084410,$67 
+Hotel.com,Best Western Potomac Mills,,2.5,14619 Potomac Mills Road,Woodbridge,VA,22192,38.628240,-77.292690,$67 
+Hotel.com,Best Western Springfield,,2.5,6721 Commerce St,Springfield,VA,22150,38.780390,-77.178550,$67 
+Hotel.com,Days Inn by Wyndham Alexandria South,Motel,2,6100 Richmond Hwy,Alexandria,VA,22303,38.792480,-77.056570,$68 
+Hotel.com,Inn of Rosslyn,Motel,2,601 Arlington Boulevard,Arlington,VA,22209,38.891410,-77.069680,$68 
+Hotel.com,Days Inn by Wyndham Arlington Pentagon,,2,3030 Columbia Pike,Arlington,VA,22204,38.862030,-77.088060,$68 

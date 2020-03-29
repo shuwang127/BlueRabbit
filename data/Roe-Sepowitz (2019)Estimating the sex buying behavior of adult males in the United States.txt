@@ -1,0 +1,1136 @@
+Journal ofCriminal Justice 63 [2019) 4148
+
+Contents lists available at ScienceDirect
+
+Journal of Criminal Justice
+
+   
+
+iournal homepage: www.e|sevier.comf|ocatefjcrimius
+
+ 
+
+Estimating the sex buying behavior of adult males in the United States: List 1}
+experiment and direct question estimates am
+
+Dominique Roe-Sepowitzd'“; Stephanie Bontragerb, Justin T. Pickett”, Anna E. Kosloskid
+
+“Arizona State Uraversay; muted 5mm
+
+”Tarieton 5m maven-try. Farr Wordt. Ix, United States
+
+‘ Uraversiu- at Albany, State University of New York. United Sums
+” Universﬂy of Colorado, Colorado Sprotgs. co. omd sum
+
+ARTICLE INFO ABSTRACT
+
+Keywords: Propose: Estimating the size of the sex buyer market in the United States has been stymied by methodological
+53* buyers and sampling challenges. Given known methodologiar] issues in self-reporting and the sensitive nature of
+Prostitution purchasing sex, cunent research faces challenges in providing estimates of demand for purchasing sex. This
+5:33:13] sex study used a unique approach to estimate the prevalence of sex buying by men over the age of 18 in die United
+
+States.
+
+Methods This study employed a double list experiment and a direct ask question to a nationally representative
+sample of 2525 adult males to estimate die size of the sex buyer market in die United States.
+
+Results: The double list experiment found the prevalence of sex purchasing is roughly 1 of every 50 adult males
+in the US. (2%) over the 3years. The direct ask questions found that roughly 1 of every 25 males in the U.S.
+(4%) had purchased sex in die past 3 years How they purchased and who they purchased sex from was also
+explored. A total of 30 respondents reported buying sex during the past 3years. They spent an average of $120
+for their most recent sex-buying encounter. Most sex buyers reported buying sex from an ofﬂine venue (street,
+bar, or massage parlor) and 81% purchased sex from a female. Applying the estimate of sex buying behavior to
+the genera] male population in the U15. results in approximately 4 million men over the age of 13 purchasing sex
+the past 3years.
+
+Combisions: The ﬁndings from both the double list experiment and the direct ask question indicate that buying
+sex is a relatively rare phenomenon arnong adult males, however, when accounting for multiple purchases and
+extrapolating to the entire population the estimated purchases is in the millions. Applying the double list ex-
+periment and a direct ask question to a nationally representative sample provides a new way to capture estimates
+while addressing some of the limitations of previous methods. Such ﬁndings have implications for both the
+criminal justice and public health sectors.
+
+1 . Introduction
+
+The commercial sex industry describes the proﬁt-driven market of
+transactional sex and sexual services. Within the industry a variety of
+direct (e.g. prostitution} and indirect sexual services (e.g. pornography
+and exotic dancing] transpire (Wcitzcr, 2012). The acts of selling and
+purchasing sex are illegal and under certain legal contexts, including
+the removal of consent through force, fraud or coercion or if a minor is
+involved in the act, are statutorily deﬁned as sex trafﬁcking crimes (Yu.
+2011). Debates about the normative and moral nature of the commer-
+cial sex industry are common features of academic research on this
+issue. Some inquiries characterize buying and selling sex as immoral,
+
+illegal and harmful - especially to women - while others argue that it is
+a personal, reasonable and private choice (see Gerassi, 2015; Moran 81
+Farley, 2019; Wilson 8: Butler, 2014; Weitzer, 2012). While this ex-
+change provides insight into the motives, perceptions and character-
+istics of those engaged in purchasing/providing sex, the scope and scale
+of the United States' sex market has yet to be deﬁnitively addressed by
+researchers. Recognizing that there are very strong and differing per-
+spectives about the nature of exchanging money for sexual services, the
+purview of this study is narrowly focused on examining market features
+— speciﬁcally the demand for prostitution in the United States (US). This
+research does not engage the various positions on sex work, nor does it
+support or refute any speciﬁc arguments about the industry. Rather, the
+
+‘Corresponding author at; School of Social Work, Arizona State University, Phoenix, AZ 85004, United States
+
+E—mm'l address: Dominique.Roc@asu.edu (D. Roe-Sepowitz).
+
+https://dor.org/lllll]lﬁ/j.jcrimjus.2019.04.005
+
+Received 18 February 201.9; Received in revised fonn 29 April 2019; Accepted 30 April 2019
+
+Available orlline 22 May 2019
+0047723524” E.) 2019 Elsevier Ltd. All rights reserved.
+D. Mpwﬂx, er oi.
+
+sole goal is to provide a new methodology in estimating the demand for
+sexual services that can be utilized by researchers across theoretical and
+moral paradigms to understand the extent of purchasing behaviors
+within the commercial sex industry.
+
+Determining how many men within the US acquire services from a
+personl exchanging sex for money and how often they engage in this
+behavior is a complex endeavor. Sex markets are illegal throughout
+most of the country, and empirical efforts to understand industry dy-
+namics have largely focused on sex trafﬁcking, victimization and in-
+tervention efforts. Further, the tension between opposing views of
+prostitution - trafﬁcking/slavery at one extreme and a natural right on
+the opposite - has created barriers to understanding buying/selling sex
+as a market like any other (Monto, 2004, Monto, 2010; Pinto, 2011;
+Shively, Kliorys, Wheeler, 3: Hunt, 2012). Finally, commercial sex stu-
+dies are often restricted to women who sell sex, though in recent years
+researchers have begun to explore consumers as well [see Farley,
+MacLeod, Anderson, 8: Golding, 2011; Milrod s Monto, 2012; Monto,
+2010].
+
+Prior studies of sex buyers (also referred to as “consumers", “pur-
+chasers”, “solicitors” and “johns”) have focused primarily on exploring
+the characteristics and motives of men who pay for sex. A recent study
+of sex trafﬁcking in Denver encompassed both ofﬁcial arrest data on
+purchasers and law enforcement perceptions of the scope of demand for
+illegal commercial sex (Morris et al., 2012). The report found that sex
+purchasers were on average, 40 years old and most were white. Other
+research supports the contention that there are demographic simila-
+rities among consumers; most are males, many are married with chil-
+dren, between 30 and 50 years old, purchase at least once a year and
+come from diverse racial/ethnic backgrounds (Chicago Coalition for the
+Homeless, 2004; Durschlag 8: Goswami, 2008; Farley et al., 2011;
+Kosloski, Bontrager Ryan, 8: Roe-Sepowitz, 2017; Milrod 8: Monte,
+2012; Monte, 2004; Shively et al., 2012). As noted by Morris et al.
+(2012) research ﬁndings about sex buyers are not robust to methodo-
+logical deviations. Simply including arrested purchasers, a logical de-
+sign choice, in their sample negated the relationship between marital
+status and soliciting sex {Morris et al., 2012).
+
+Research on the sex purchasers relies on speciﬁc geographic loca-
+tions, using convenience samples or discrete moments in time to ex-
+plore soliciting. For example, the Shapiro Group attempted to estimate
+how many men were buying sex from ‘young’ girls from online venues
+in Georgia. 'Nhile valuable information was gained from the research,
+their study did not result in a robust and replicable model (National
+Academy of Sciences, 2013; Pinto, 2011). Inquiries on the scope of sex
+buying among adult males, to date, rely exclusively on non-re-
+presentative samples of the population, producing highly variable—
+from less than 1% to over 16% - estimates of sex buyers in the US
+(Monto S: Milrod, 2014). Studies conducted in Chicago, Scotland, Las
+Vegas, Portland and Denver provide diverse descriptions of men who
+purchase sex, but none utilize a representative sample of solicitors and
+most operationalize soliciting as purchasing at any point in the past
+(Durschlag 8r Goswami, 2008; Farley et al., 20]]; Monto & McKee,
+2005; Memo 8: Milrod, 2014; Morris et al., 2012). These studies fall
+short of generalizability and cannot estimate the number of active sex
+market consumers, but they have contributed to our collective under-
+standing of purchasing methods, buyer motivations and solicitor char-
+acteristics. Building from this foundation, there is a clear directive for
+innovative approaches to ensure an accurate and generalizable assess-
+ment of the prevalence of sex purchasing in the US.
+
+This research employs a new survey approach for determining the
+number of sex buyers in the US based on a list item experiment and a
+direct ask question of potential male solicitors. This design, in combi-
+nation with a representative sample of adult males, produces an
+
+' Prostitute is die most common deﬁnition, but sex worker, call girl and escort
+also describe anyone who performs sexual services for payment.
+
+42
+
+Journal of Criminal Jasrr'ce 63 (2019) 4148
+
+accurate and generalizable estimate of the percent of males within the
+US who have bought sex from a prostitute in the past Byears. Given
+changes to online purchasing platforms (e.g. moving from credit cards
+to Bitcoin) and how purchasers solicit sex (e.g. street, online, etc.), the
+survey also captures this information among this sample. Being able to
+reﬁne estimates of sex purchasing prevalence has important implica-
+tions for research on the commercial sex industry, including the full
+range of sex work and sex trafﬁcking scholars. Moving beyond the labor
+versus slavery discussion, the emphasis here is on creating a new
+technique for understanding the extent of active sex buying in the US
+and enhancing our knowledge of the commercial sex market.
+
+2. Literature review
+
+To date, research on sex buyers largely focuses on motives for
+purchasing sex and the demographic background of buyers. In doing so,
+researchers have discovered that some sex purchasers rationalize their
+behavior as ‘normal', they feel entitled as men to buy sex, they often
+hold negative views of women, and they are more likely than non-
+purchasers to harm their sexual partners (Durschlag Sc Goswanri, 2008;
+Farley et al., 2011; Janson, Durchslag, 8: Mann, 2013; Milrod 81 Monto,
+2012; Monto, 2004, 2010; Monte 81 Hotaling, 2001; Shively et al.,
+2012). Sex buyers use indoor and outdoor methods for soliciting sex. Of
+individuals that admitted to purchasing sex a total of 63% of Farley
+et al. (2011) study participans indicated they approached women on
+the street to purchase sex. Purchasing online is a widely used method as
+advertisements for escorts and commercial sex are readily available
+from websites, forums, and social networking sites (Finn 8: Stalans,
+2016; Holt 8: Blevins, 2007; Milrod S: Monto, 2012). Other sex buyers
+report seeking the encounter in bars, strip clubs, and massage parlors
+(Farley et al., 2011).
+
+Research on prostitution purchasing behaviors largely comes from
+data collected at john schools:2 and online discussion boards. These
+studies reveal important information regarding the motives, attitudes,
+and practices for purchasing sex, however, they do not reﬂect the true
+extent of such practices within the United States. Research from the
+Urban 1nstitute indicates that these sources are unreliable since they are
+“only the tip of the iceberg for a largely hidden crime” (Dank et al.,
+2014, p.B). For this reason, recent attempts to provide more accurate
+information through survey data have been incorporated into research
+on demand for prostitution. Using a robust modeling technique, the
+following section describes a new technique for estimating and vali-
+dating the number of sex buyers in the United States.
+
+2.1. Methods of eso'maalng purchosorg
+
+In a review of 181 studies on commercial sex, Wilcox, Christmann,
+Rogerson, and Birch (2009) reported signiﬁcant methodological issues
+in estimating demand for prostitution. Given that prostitution is largely
+illegal in the United States, controversial, stigmatizing, and buyers can
+solicit online and out of public view, estimates of purchasing behavior
+have been difﬁcult to assess (Monto & Milrod, 2014; Roe-Sepowitz,
+Bontrager Ryon, Hickle, Gallagher, 8: Hedberg, 2016; Wilcox et al.,
+2009). Attempts to ﬁne-tune the methodologies used to produce esti-
+mates of sex purchasing behaviors have included the use of large-scale
+surveys and a capture-recapture approach.
+
+Recent attempts to estimate the prevalence of the sex buyer popu-
+lation have utilized large-scale surveys. Monto and Milrod (2014) relied
+on the General Social Survey to pull from a nationally representative
+sample. The General Social Survey asks if respondents if they “have
+
+2 John Schools are criminal justice sanctions similar to intimate partner vioi
+lence classes. Participants learn about the dangers of buying sex and the harm
+to prostituted persons. Classes vary considerably but the goal is to stop further
+purchasing.
+D. Rprﬂs, er at
+
+ever paid for sex in their lifetime” and if they “paid for sex in the last
+year” in addition to general attitudinal questions regarding sex. Monto
+and Milrod (2014) concluded that roughly 14% of men between 18 and
+75 years old, sampled between 2002 and 2010, reported having paid for
+sex during their lifetime. Additionally, they found that about 1% re-
+ported buying sex in the past year.
+
+Surveys especially for sensitive topics of inquiry are prone to un-
+der'reporting (Brewer, Roberts, Moth, 8: Potterat. 2008). Relying on
+capture/recapture techniques, ecological modeling adapted to socio-
+logical phenomena, researchers have successfully estimated the number
+of drug users in London (llickman et al.. 2002). Simply, a sample is
+observed at time 1 and compared to a similar sample within a geo-
+graphic region at time 2. The overlap of elements in the two groups is
+the recapture estimate (Larson, Stevens, 8: Wardlaw, 1994). Using the
+same technique, Brewer et al. (2008) were the ﬁrst to attempt the
+complex task of creating an estimate of the size of the population of
+street prostitution customers in the United States using a capture-re-
+capture method. This method used arrest records for prostitution in six
+cities in the United States and matched them with county data they
+estimated 2—3% percent of adult male residents in several large me-
+tropolitan areas in the United States patronized local street prostitutes
+(Brewer ct al., 2008).
+
+Roe Sepowitz et al. (2016) used a similar capture-recapture ap-
+proach to study demand for prostitution online. In Invisﬂile Offenders: A
+Study of Online Sex Customers,Roe Scpowitz et al. (2016) placed decoy
+ads on common solicitation websites for illegal commercial sex in 15
+metropolitan cities. They then captured potential buyers telephone
+numbers when responding to the decoy ads. The data was de-identiﬁed
+and was then used for the capture-recapture calculation to create
+probability estimates of demand size in some metropolitan cities in the
+United States. They found that 1 out of every 20 males adult males in a
+metropolitan city area was soliciting online sex ads or that 3% of adult
+males in these cities were buying sex online. This capture-recapture
+approach used by Brewer et al. (2008) and Roe Sepowitz et al. (2016)
+does require knowing that either a charge has been ﬁled via ofﬁcial law
+enforcement records or that the intention of someone who contacts the
+ads is in fact to purchase sex. In using the capture-recapture method
+online, changes to soliciting website availability (e.g. Backpage.conr)
+has limited the feasibility of this approach at this time. To account for
+limitations in current methods to 355855 purchasing prevalence, the
+current study provides a new strategy for estimating the prevalence of
+sex buying behavior using a double list experiment and a direct ask
+question.
+
+3. Methodology
+
+Multiple surveys were created by the authors and resulted in
+questions including; responses to prevalence of paying for a sexual
+encounter from a prostituted person, policy attitudes towards prosti-
+tution, assessment of opinions about characteristics of prostituted per-
+sons and sex buyers, assessment of the participant's understanding of
+the consequences of prostitution, assessment of the perceived victimi-
+zation risk and media exposure, gender ideology and moral founda-
+tions, religiosity and moral foundation, prior arrest, and characteristics
+of the participant's last prostitution incident. This study was approved
+by the Arizona State University Institutional Review Board. This ques-
+tionnaire was reviewed by a sex trafﬁcking survivor-leader whose
+feedback was integrated into the survey. The questionnaire took an
+average of 7min for the participants to complete. The survey instru-
+ment utilized both indirect and direct questions.
+
+3.1. Sample and data collection procedure
+To determine the national prevalence of sex purchasing among
+
+American men, the Growth from Knowledge or GtK Group (formally
+Knowledge Networks) was commissioned to administer a survey to a
+
+43
+
+Journal of Criminal Justice 63 (2019) 4148
+
+representative sample of 2525 adult (18 or older] men residing in the
+United States. This targeted sample size was chosen to yield a maximum
+margin of error of i 2 percentage points. The GtK Group sampled re-
+spondents from its KnowledgePanel. The KnoweldgePanel is a pre-re-
+cruited and probability-based online panel, which is representative of
+the general population {Dillnran, Smyth, 8: Christian, 2014:
+'l‘ourangeau, Conrad, 8r Cooper, 2013). Panelists were initially recruited
+into the KnowledgePanel through random sampling of addresses using
+the United States Postal Service's Delivery Sequence File. To extend
+coverage to members of the public who are not Internet users, the GfK
+Group provided individuals who lacked computers and/or 1ntemet
+access with these facilities when they joined the KnowledgePanel. After
+joining the panel, panelists periodically receive email invitations to
+participate in surveys. These surveys are self-administered through the
+respondents' (or the GiK-provided) computers.
+
+The GfK Group (and KnowledgePanel) is a market leader for prob-
+ability-based online surveys (Weinberg, Freesc, 8: McElhattan, 2014).
+Allcott (201]) opines that GfK has developed a superior survey platform
+that is publicly available to social scientist. The KnowledgePanel has
+regularly been used by both the Time-Sharing Experiments for the So-
+cial Sciences, an ongoing interdisciplinary program funded by the Na-
+tional Science Foundation (NSF), and the American National Election
+Studies to ﬁeld general population surveys (Mutz, 2011). Chang and
+Krosnick (2009, p. 641) demonstrated that probability-based 1ntemet
+surveys ﬁelded with the KnowledgePanel manifested “the optimal
+combination of sample composition accuracy and self-report accuracy.”
+They found that KnowledgePanel surveys yielded higher quality data
+than random telephone questionnaires, containing lower levels of
+random measurement error, satisﬁcing, and social desirability bias.
+
+The survey was ﬁelded between January 10 and 14, 2017. The
+target sample size was 2500 participants. GfK sent invitations to par-
+ticipate to a total of 5000 male panelists over the age of 18, and re-
+minder emails were sent to non- responders on the third day of the
+administration period. A total of 2525 (51% participation] men en-
+gaged in the survey. The American Association for Public Opinion
+Research‘s Standard Deﬁnitions (2016, pp. 48—49) provides formulas for
+calculating the ﬁnal outcome rates in surveys with pre-recniited,
+probability-based online panels. Per these calculations, the survey
+completion rate (COMR), or the rate of response to the survey imitation
+among eligible panel members, was 50.5% (2525/5000 x 100). The
+average initial recruitment rate (RECR) into the panel was 12.9%, and
+the average proﬁle rate (PROR) was 64.9%. In turn, the cumulative
+response rate (CUMRR = COMR X PROR X RECR) was 4.2%. This
+CUMRR is typical of response rates administered to pre-recruited
+probability-based online panels. Meta-analyses have shown that survey
+response rates are weakly related to nonresponse bias, which varies
+mostly at the estimate rather than survey-level (Groves, 2006; Groves 81
+Pcytcheva. 2008). Krosnick, Presser, Foaling, 81 Ruggles (2012, p. 6)
+recent report on survey research methods to the National Science
+Foundation emphasized this point: “nonresponse bias is rarely notably
+related to [the] nonresponse rate.”
+
+Of the respondents who participated in the survey, 2498 (or 98.9%)
+answered the indirect questions about purchasing sex, and 2484 (or
+98.4%) answered the direct question (see below). For the analyses, the
+data were weighted to account for respondents' probability of selection,
+and to adjust for population benchmarks from the Current Population
+Survey. Table 1 presents both the unweighted and weighted demo-
+graphic characteristics of the sample.
+
+Of the sample, the unweighted mean age was 50 years old (weighted
+47 years), was 72% White, 8.6% Black, and12% Hispanic (weighted
+65%, 11%, 16% respectively). A total of 61% of the respondents were
+married (57% weighted), an overwhelming majority were employed
+(95% non-weighted; 94% weighted). Most had some education as 27%
+had a high school degree, 28% had attended some college or had an
+Associate degree, 21.6% had earned Bachelor's degree, and nearly 16%
+had a Graduate degree (weighted 30%, 27%, 17%, 13% respectively).
+D. Mpowits, er al.
+
+Journal of Criminal Jusn'ce 63 (2019) 4148
+
+Table 2.
+Double list experiment: survey questions.
+
+ 
+
+ 
+
+Table 1
+Unweighted and weighted descriptive statistics (N = 2525).
+Variables Unweighted Weighted Range
+Mean or % SD Mean or ‘16 SD
+
+Age 50.22 16.75 47.07 17.39 13—94
+
+While 71.88 — 64.86 — 0—1
+
+Black 8.55 — 11.15 — 0—1
+
+Hispanic 11.76 — 16.19 — 0—1
+
+Education 3.58 1.61 3.27 1.64 1—6
+No H5 diploma 7.29 — 1247 — 0—1
+HS diploma 27.17 — 30.26 — 0—1
+Some college 18.61 — 17.77 — 0—1
+Associate: degree 9.54 — 9.40 — 0—1
+Bad‘lelor’s degree 21.58 — 17.04 — 0—1
+Graduate degree 15.80 — 13.06 — 0—1
+
+Income 3.55 1.66 3.53 1.68 145
+Less $25 K 13.15 7 13.61 7 (Fl
+52549.9 K 19.49 7 19.72 7 (Fl
+SSCF74.9 K 17.15 7 17.82 7 (Fl
+57599.9 K 15.33 7 14.41 7 (Fl
+Slﬂfkl49.9 K 18.81 7 17.73 7 (Fl
+5150 K or more 16.08 7 16.71 7 (Fl
+
+Married 61.62 — 57.2.3 — 0—1
+
+Homeowner 72.44 — 70.12 — 0—1
+
+Unemployed 4.95 — 5.39 — 0—1
+
+Region — — — — —
+Noellteasl 18.77 — 17.93 — 0—1
+Midwal. 22.22 — 21.15 — 0—1
+South 34.57 — 37.02 — 0—1
+West 24.44 7 23.89 7 (Fl
+
+ 
+
+3.2. Survey measures
+
+3.2.1. Indirect questions
+
+In surveys dealing with sensitive topics, indirect questioning tech-
+niques are used to reduce under- and over-reporting, as well as item
+nonresponse, by respondents due to social desirability bias (Tourangeau
+8: Yan, 2007). Many indirect questioning techniques exist, but the list
+experiment—also known as the item- or unmatched-count techni-
+que—is among the most frequently used (lmai, Park, 8: Greene, 2015).
+Compared to the list experiment, other indirect questioning techniques
+(e.g., randomized response technique) tend to result in higher item
+nonresponse because they are more confusing and burdensome for re-
+spondents, and often raise suspicions (Coutts S: Jann, 2011; Droitcour
+et al., 1991; Holbrook Sc Krosnick, 2010a).
+
+The list experiment involves randomly assigning respondents to
+anmer different versions of a numerical count question, in which they
+are asked to indicate how many items in a list are applicable to them,
+but not to indicate which items speciﬁcally are applicable (Droitcour
+et al., 1991). In this way, respondents are granted privacy through
+aggregation—“as long as the entire list does not apply, the respondent
+can be assured that the researcher does not know their answer to the
+sensitive question" (Glynn, 2013, p. 160). The different versions of the
+count question used in a list experiment must be identical with the
+exception of the key (sensitive) item—that is, one version includa the
+key item (sensitive behavior) along with several additional items (full
+list, treatment group), while the other version excludes the key item but
+contains the rest of the items (baseline list, control group). In turn,
+because of random assignment, the prevalence of the sensitive behavior
+can be estimated as the difference between the treatment and control
+groups' average responses to the count question.
+
+There is a growing body of evidence supporting the advantages of
+the list experiment over direct questioning for asking about sensitive
+behaviors (Holbrook 8r Krosnick, 2010b; Rosenfeld, lmai, 81 Shapiro,
+2015; Tsuchiya, Hirai, 8: Ono, 2007). The main limitation of the list
+experiment is that while it reduces social desirability bias, it yields
+estimates with much higher variance (wider conﬁdence intervals) than
+direct questioning (Rosenfeld et al., 2015). To increase the efﬁciency
+
+44
+
+Introduction to one}: list
+“Here are [four/live] Iliings that some people have done. Please Ldl us HOW
+MANY you have done at least once during Lhe past ayears. We don't want to
+know which ona you have done. Just tell us HOW MANY in total during the last
+3 years."
+
+Baseiine ifs! X:
+
+1. Given money to a drarily
+2. Used marijuana
+3. Finished a marathon or half marallron
+4. Smoked a pack of cigarettes
+Baseiine ifs! 1":
+
+l. Flown on an airplane
+
+2. Conan a tattoo
+
+3. Donated blood
+
+4. Used cocaine, heroin or mediamphelamine
+Key (sensitive) item:
+
+5. Paid for a sexual encounLer from a prosLinne
+
+ 
+
+Notes: Within each list, the ordering of the items was randomized for end]
+respondent. As intended, there was a positive correlation between responses to
+the two lists (r = 0.287).
+
+(or precision) of the estimator, Droitcour et al. (1991) suggest using two
+different baseline lists for all respondents, but randomly assigning them
+to receive the key item appended to only one of the groups. This
+“double list experiment” reduces sampling variability because all re-
+spondents serve double duty, simultaneously functioning as both
+treatments and controls. To further reduce variance, Glynn (2013) re-
+commended using the double list experiment and designing the two
+baseline lists so that there are negative within-list correlations between
+the items, but a positive between-list correlation. Glynn's (2013) tech-
+nique has the additional advantage of reducing the risk of ceiling ef-
+fects, which occur when respondents anmer afﬁrmatively to all the
+baseline items, thereby forfeiting any privacy on the key (sensitive)
+item.
+
+Consistent with these current best practices, the experiment was
+conducted and followed Glynn's (2013) recommendations for designing
+the baseline lists. Additionally, given evidence that respondents prefer
+longer lists, the baseline lists with four items were used (Droitcour
+er. al., 1991). The list experiment was the ﬁrst question in the survey.
+Both baseline lists and the key item are shown in Table 2.
+
+Several assumptions underlie the list experiment, which when met
+strengthen conﬁdence in resultant prevalence estimates (Aronow,
+Coppock, Crawford, 8: Green, 2015; lmai, 2011). The ﬁrst is the “1g-
+norable Treatment Assignment” assumption, which necessitates that
+amignment to the treatment and baseline lists is independent of actual
+behavior and survey responses. The second is the “No Liars" assump-
+tion, which holds that respondents who have done the sensitive beha-
+vior disclose it in the list experiment. Finally, the “No Design Effects”
+assumption requires that the inclusion of the key item does not change
+respondenm' answers to the other baseline items. Aronow et al. (2015)
+developed two placebo tests for assessing the validity of the above as-
+sumptions. These tests require that a direct question about the sensitive
+behavior is included in the questionnaire for all respondents and as-
+sume monotonicity (no false corJessiorrs to direct questions). Typically,
+researchers include the direct question only for respondents in the
+control group (receiving the baseline list), or for a separate randomly
+selected group of respondents who receives only the direct question
+(and not the list experiment). In order to conduct the placebo tests,
+however, we followed Aronow et al.'s (2015) recommendation to in-
+clude a direct question for all respondents (see below).
+
+3.2.2. Direct questions
+later in the questionnaire, several questions after the list
+D. Roessepowits, er al.
+
+experiment, a direct question about purchasing sex from a prostitute
+was included, along with several follow-up contingency questions on
+respondents' most recent experience purchasing sex. Although the
+questionnaire also included the indirect questioning technique de-
+scribed above to measure sex purchasing, several steps were taken to
+minimize social desirability bias in responses to the direct questions.
+Research shows that self-administration is the most important metho-
+dology for ensuring accurate responses to sensitive questions
+('l'ourangcau 81 Yan, 2007). Some evidence suggests that the combina-
+tion of self— and online-administration may further reduce socially de-
+sirable responding in comparison to self-administration with paper
+questionnaires ('l‘ourangcau ct al., 2013). For these reasons, our survey
+was both self-administered and completed online.
+
+Another strategy for increasing the accuracy of responses to direct
+questions about sensitive behaviors is to “warm up" respondents by
+gradually and progressively introducing them to other sensitive ques-
+tions prior to the key sensitive question (Bradburn, Sudman, 8:
+Wansink, 2004; Warwick 8: Linger, 1975). Accordingly, in this survey,
+leading up to the direct question about sex purchasing, we included
+questions about prior vicarious (family and friends) and personal arrest
+experiences (for any offense), and a question asking about drinking and
+driving. We assumed these behaviors would be relatively common and
+thus less threatening for respondents, compared to sex purchasing.
+Consistent with this assumption, 43% of respondents reported having a
+family member or friend who had been arrested, 27% reported having
+been arrested themselves, and 57% reported driving after drinking
+enough alcohol to feel drunk.
+
+Some researchers also suggest using afﬁrmative wording to load
+sensitive questions (e.g., presupposing respondents have committed the
+behavior, and just asking them about the frequency (Bradburn ct al.,
+2004). Consistent with this recommendation, we worded the direct
+question as follows: “In the past 3 years, how many different times have
+you PAID for sex from a prostitute?” The response options were: None,
+Once, 2—3 times, 4—5 times, and 6 or more times. In the analysis, be-
+cause of low frequencies, we combine the last two response options.
+Following this question, we included several contingency questions
+asking about the price of their last encounter in dollars (“Please think
+about the last time you paid for sex from a prostitute. How much did
+you pay for the sex act?”), the location of the solicitation (“Where did
+you ﬁnd the prostitute? On the street, online, or through some other
+way?”), and the gender of the prostitute (“Was the prostitute male,
+female, or transgender?”).
+
+4. Results
+
+First the ﬁndings from the double list experiment were examined,
+which are presented in Table 3. The top panel in Table 3 presents the
+unweighted ﬁndings, and the bottom panel presents the weighted
+ﬁndings. For List 111, the difference in means between the groups re-
+ceiving the full and baseline lists is negative (unweighted = 70.028,
+weighted : 70.020). This can happen in list experiments when the
+
+Journal of Criminal Justice 63 (2019) 4148
+
+sensitive behavior has a very low prevalence that is outweighed by
+sampling variability (chance differences between treatment and control
+groups) (Droitcour ct al., 1991, p. 206). For List Y, the difference in
+means between the groups receiving the full and baseline lists is posi-
+tive, but small (unweighted : 0.076, weighted : 0.059). To combine
+the ﬁndings from List X and list Y, we use the equations provided by
+Droticour et al. (Droitcour ct al., 1991, p. 189) for calculating the
+average estimate and variance. We obtain a combined prevalence es-
+timate of approximately 2% (unweighted : 0.024, weighted : 0.020),
+and a 95% conﬁdence interval with an upper bound around 6% (un-
+weighted = 0.057, weighted = 0.058). Therefore, the overall estimate
+of the prevalence of sex purchasing derived from the double list ex-
+periment is that roughly 1 in every 50 adult American men (or 2%) has
+paid for sex from a prostitute in the last 3 years.
+
+Next, using responses to the direct question on sex purchasing, the
+two placebo tests outlined by Aronow ct al. (2015) were conducted to
+355855 the assumptions underlying the list experiment. The results are
+presented in Tables 4 (bottom panel) and 5. The ﬁrst placebo test jointly
+tests the monotonicity, no liars and no design effects assumptions. If
+these assumptions hold, then the conﬁdence interval around the esti-
+mate from the double list experiment should include 1 for respondents
+who admit to purchasing sex in the direct question. The results in the
+bottom panel of Table 4 show that this is not the case in our survey
+(mean difference = 0.655, 95% C1 = 0420-0390), indicating that at
+least one of these assumptions is violated. The second placebo test as-
+585595 the ignorable treatment assignment assumption. If this assump-
+tion holds, then answers to the direct question should be statistically
+independent of treatment assignment (randomization to receive Lists
+X5 and Y4, versus Lists X4 and Y5). The results in Table 5 suggest that
+this assumption holds in our study—there is not a statistically sig-
+niﬁcant difference in responses to the direct question across experi-
+mental groups.
+
+Given this evidence of truthful responding, we now trim to the
+ﬁndings from the full sample for the direct question. These are pre-
+sented in Table 6. The top panel in Table 6 presents the unweighted
+ﬁndings, and the bottom panel presents the weighted ﬁndings. First, a
+slightly smaller number of respondents answered the direct question
+(N = 2484) than responded to the double list experiment (N = 2498).
+Second, similar to the results from the double list experiment, responses
+to the direct question indicate that sex purchasing is a low prevalence
+activity among American men. Speciﬁcally, the weighted ﬁndings in-
+dicate that almost 4% of American men (or 1 in 25) have purchased sex
+from a prostitute within the past 3years, with a 95% conﬁdence in-
+terval ranging from a low of roughly 3% to a high of about 5%. Ac-
+cording to the most recent 0.5. Census estimates, there are approxi-
+mately 118 million adult men in the U.S. Our ﬁndings from the direct
+question would thus suggest that well over 4 million American men
+have paid for sex from a prostitute in the past 3years. Third, the evi-
+dence indicates that among those men who admit to paying for sex from
+a prostitute in the past 3 years, most (roughly 57%) say they have done
+so multiple times.
+
+ 
+
+ 
+
+ 
+
+Table 3
+Estimates from double list experiment (N = 2498).
+Full list (5 items) Baseline list (4 items) Difference 95% Cl
+Mean SF. Mean SE Mean SE Lower Upper
+unweighted
+List X 1.223 0.031 1.256 0.027 0.020 0.041 0.109 0.053
+List Y 1.011 0.028 0.935 0.026 0.076 0.039 0.001 0.152
+Combined 7 7 7 7 0.024 0.017 0.009 0.057
+Weighted
+List X 1.223 0.038 1.243 0.030 0.020 0.049 0.115 0.076
+List Y 0.996 0.031 0.937 0.030 0.059 0.044 0.026 0.145
+Combined — — — — 0.020 0.019 0.018 0.058
+
+ 
+
+Notes: J'rI = 1191 (full X list, and baseline Y list); n2 = 1307 (baseline X list, and full Y list). Numbers were rounded after calculations were made.
+
+45
+D. Mpwﬂs, at at
+
+Joanie! of Criminal .l'trsrice 63 (2019) 4148
+
+ 
+
+ 
+
+ 
+
+Table 4
+Placebo Test #1: Joint Test of the Monotonicity, No Liars, and No Design Effects Assumptions.
+Full list. [5 items} Baseline list [4 items] Difference 95% CI
+Mean SE Mean SE Mean SE Lower Upper
+None
+List X 1.186 0.031 1.243 0.027 0.056 0.041 0.138 0.025
+List Y 0.982 0.029 0.921 0.026 0.061 0.039 0.015 0.137
+Combined — — — — 0.002 0.017 0.031 0.035
+At least once
+List X 2.350 0.184 1.667 0.174 0.603 0.253 0.179 1.188
+List Y 2.077 0.181 1.450 0.156 0.627 0.239 0.150 1.103
+Combined — — — — 0.655 0.1 18 0.420 0.890
+
+ 
+
+Notes; Table shows estimates from double list experiment disaggregated by respondents' answers to the direct question. Numbers were rounded after calculations
+
+were made. For this analysis, the data are not weighted.
+
+Interestingly, the prevalence estimate obtained from the direct
+question (4%, Table 6) is higher than that from the list experiment (2%,
+Table 3), although the conﬁdence intervals overlap considerably. Sev-
+eral prior studies have also obtained higher prevalence estimates from
+direct questions than from list experiments {Biemer 8: Wright, 2005;
+Droitcour et al., 1991]. Holbrook and Krosnick (2010b) found that the
+list experiment yielded higher prevalence estimates than direct ques-
+tions in telephone surveys, but not in eight online self-administered
+surveys. Their ﬁndings suggested that “social desirability response bias
+did not inﬂate direct self— reports in surveys conducted via the Internet”
+(p. 56]. Recall, our study also involved an online self-administered
+questionnaire. In our study, there also appears to be little social desir-
+ability bias in direct self-reports (top panel, Table 4). Therefore, we
+believe the lower prevalence estimate obtained from the double list
+experiment, relative to the direct question, most likely reﬂects greater
+measurement error in the former, resulting from the higher cognitive
+burden imposed on respondents in count questions (see Tsuchiya et al.,
+2007). For this reason, we have greater conﬁdence in the direct self-
+reported prevalence estimate.
+
+Finally, we examine responses to the contingency questions asked to
+respondents who reported purchasing sex in the past 3years. The re-
+sults are presented in Table 7. Readers should exercise caution when
+interpreting these estimates because the sample size is very limited.
+Only 80 respondents reported paying for sex in the past year, and
+several of these respondents declined to answer the follow-up ques-
+tions.
+
+The ﬁndings from this sample indicate that the average amount paid
+for sex in the most recent encounter was approximately $120. Most
+(66%) men located the prostitute offline (e.g., on the street, at a bar, or
+in a massage parlor), while roughly 34% found the prostitute online
+(e.g., through online ads, an escort advertising site, or social media).
+The vast majority of men (81%] paid for sex from a female prostitute.
+
+Table 6
+Estimates From the direct question (N = 2484)
+
+ 
+
+ 
+
+Proportion SE 95% conﬁdence interval
+Lower Upper
+Unweighted
+None 0.968 0.004 0.961 0.975
+Once 0.012 0.002 0.003 0.016
+2—3 times 0.009 0.002 0.005 0.013
+4 1 HM 0.011 0.002 0.007 0.015
+Weighted
+None 0.963 0.005 0.955 0.972
+Once 0.016 0.003 0.009 0.022
+2—3 times 0.010 0.002 0.006 0.014
+4 i rim 0.011 0.002 0.007 0.015
+
+ 
+
+Notes: Numbers were rounded after calculations were made.
+QUESTION; “In the past 3years. how many different times have you PAID for
+sex from a prostitute?”
+
+Table 7
+Estimates From followinp contingency questions [N = 7573]
+
+ 
+
+ 
+
+Mean or proportion SE 95% confidence interval
+Lower Upper
+Amount paid $120 $20 $81 $160
+Contacted online 0.333 0.057 0.224 0.452
+Female prostitute 0.314 0.049 0.717 0.911
+
+ 
+
+Notes: Numbers were rounded after Gilculations were made. Data were
+weighted
+
+5. Discussion
+Research estimating the demand for commercial sex are limited
+
+(Wilcox et al., 2009). When it comes to understanding purchasing be-
+havior more effort has been spent on the motives of purchasers than the
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 5
+Placebo test #2; ignorable treatment assignment assumption.
+Direct responses Randomly migned experimental group Difference 95% Cl
+Lists X5 and Y1 Lists x, and Y5
+Mean SE. Mean SE Mean SE Lower Upper
+Binary” 0.034 0.005 0.030 0.005 0.004 0.007 0.010 0.018
+Frequency" 0.066 0.011 0.060 0.010 0.007 0.015 0.023 0.036
+
+ 
+
+Notes: Table shows responses to direct question by experimental group assignment for the double list experiment. Numbers were rounded aFter calculations were
+
+made. For this analysis, the data are not weighted.
+' Variable is coded 0 = none, 1 = at least once.
+h Variables is coded 0 = none, 1 = once, 2 = 2A? times, 3 = 4 or more times.
+
+46
+D, Rot-Wits, et al.
+
+prevalence. Using a nationally representative sample of adult American
+males, the current study examines the prevalence of buying sex in the
+United States. Speciﬁcally, the evaluation addressed two unique ques-
+tions related to sex buying: what proportion of adult men purchased sex
+in the past 3 years and what were the circumstances of the transactions.
+The ﬁndings from both the double list experiment and the direct ask
+question indicate that buying sex is a relatively Iare phenomenon
+among adult males, with a range of 24% depending on how the
+question was asked.
+
+According to the double list experiment, roughly 2% of adult males
+paid for sex in the past 3 years. This ﬁnding should be interpreted with
+caution due to sample size, measurement error and violaan of a key
+assumption. Asking panicipants directly about buying sex produced a
+much higher number of males who had bought sex in the last 3 years
+(4%). Based on validity testing, the second estimate of purchasing be-
+haviors is the more valid of the two measures. Extrapolated to the entire
+adult male population within the United States, this equates to ap-
+proximately 4 million men who have bought sex in the past 3years.
+These prevalence estimates are considerably lower than most survey
+studies (Monte 8r Milrod, 2014] but closer to the capture-recapture
+approach (Brewer et al., 2008}. One reason for this may be that prior
+research varies in the time period included for estimating.
+
+The current study places more emphasis on recent behavior as op-
+posed to long-term buying in an effort to improve our understanding of
+contemporary sex buying habits. Additionally, while the estimates are
+lower, when extrapolated to the general adult male population, the
+scope of the issue — 4 million buyers in the last 3years — is clearly
+substantive. When combined with the ﬁnding that over half of the ad-
+mitted buyers purchased more than once within the recent past, the
+number of total sex buying could easily reach 10 million transactions
+(though our limited sample does not allow for an exact computation).
+
+Following the direct ask question, respondents indicated that they
+had purchased sex multiple times in the past 3 years (57%). Most stated
+that they purchased sex through ofﬂine venues and sought sex from a
+female. As to price, the average amount paid for sex, as indicated by
+respondents, was $120.00 per encounter. That two thirds of the re-
+spondents reported buying sex through offline venues suggestions that
+even in a digital age, more traditional modes of purchasing still dom-
+inate the market and the focus on community interventions. This de-
+viates fmm current research which tends to ﬁnd more sex buyers are
+using indoor methods to purchase, especially the 1ntemet {Finn &
+Stalans, 2016; Holt Br Blevins, 2007; Milrod 8: Monte, 2012}.
+
+6. Conclusion
+
+While limited, the body of research concerning sex trafﬁcking, sex
+work and prostitution is growing and providing new insights into
+commercialized sex. Amid increasing national and international de-
+bates concerning legalization and decriminalization, the ﬁndings of this
+study are especially relevant. This study demonstrates that respondenu
+were honest about their behavior, and under anonymous research
+conditions will be truthful about sex buying behavior.
+
+Future research should examine attitudes of both buyers and non-
+buyers to fully understand their views on paying for sex. Moving be-
+yond prevalence estimates, it is critically important that research turn
+towards accurate transaction and ﬁnancial ﬁgures. Sample size re-
+strictions limit this study to a simple calculation of 4million transac-
+tions by the average rate ($120) totaling $430,000,000 during the past
+3years. When considering the number of repeat buyers [57% of soli-
+citors] and extrapolating the scope of the market, the sex industry could
+feasibly produce 10 million transactions and yield a billion dollars in
+3 years. Future work exploring ﬂuctuating rates along with transaction
+information will produce empirical estimates of the true ﬁnancial value
+of the sex work industry. Finally, expanding upon this study, re-
+searchers should examine the gender preferences of sex purchasers. Our
+ﬁndings show that almost 20% of buyers are interested in same sex
+
+4?
+
+Journal of Criminal Justice 63 (2019} 4148
+
+encounters. Sarne sex transactions have yet to gain traction within sex
+work research even though our ﬁndings clearly demonstrate that such a
+demand exists.
+
+Estimates of the demand for commercial sex are deceptively low in
+all studies. However, using a nationally representative sample allows
+for a valid and reliable statistic that can be extrapolated to the entire
+population. Under this lens, roughly 1 out of every 25 adult males has
+bought sex in the past 3 years. Fifty-seven percent of buyers admitted to
+purchasing sex more than once during this timefrarne, making this a
+conservative estimate of sex buying among adult males. While not the
+focus of the current study, the scope of the industry and the number of
+men who engage prostitutes for sex demonstrated by this research
+certainly exceeds the criminal justice, public health, and human service
+sectors‘ ability to address the issue in the United States.
+
+Funding
+
+This research was made possible by the generous support of Demand
+Abolition in partnership with the MacArthur Foundation.
+
+References
+
+Allcolt, H. (2011). Consumers perceptions and mrspercepuons of energy cosls. American
+Economic Review, 101, 9&104.
+
+American Msociaiion for Public Opinion Research (2016]. Standard deﬁnitions: Final
+dispositions ofcase codes and outcome rates for surveys. Retrieved from hltptx'fwww,
+aapor.org/AAPOR,Mainfmedia/|>ubllcaljor|s/Staridard-
+DelinitionsZO1691heditionl‘1nalpdf.
+
+Aronow, 13., Coppock, A., Crawford, F., ti: Green, D. [2015}. Combining list experiment
+and direct question estimates of sensitive heliavtor prevalence. Joan-ml of Survey
+Statistics andMetlwdolagy, 3, 43—66.
+
+Biemer, P., 3: Wright, D. [2005]. Model-based estimation of drug use revalence using item
+count data. Jamil of Dﬁicial Statutes, 21, 237—308.
+
+Bradburn, N., Sudman, 5., & Wansink, B. (2004}. Asking questions: The deﬁnitive grade to
+questionnaire deem-t for market research, paiiticaipolh, and social and health ques-
+tionnaires John Wiley & Sons.
+
+Brewer, D, Roberts, 1, Math, 5., B.- Potterat, .I. (2008), Prevalence of male clients ofstreet
+prostitute women in the United States. Human Organization 67, 346—356.
+
+Chang, L, it Knisnick, .1. (2009). National surveys via RDD lelephone lolerv' wing versus
+the inter-net: Comparing sample representativeness and response quality. Public
+Opinion Quarteriy, 73, 6417678,
+
+Chicago Coalition for the Homelex [2004). Buying sex: A survey ofmen in Chicago.
+Chicago, [1; Chicago Coalition for the Homeless. Retrieved from htlpsj/www.
+issuelab.org/resourceldeconstrucong-lite-demand-[or-prostimoon-preliminary-
+iInsights[rootloterviewsrwilhrchicagormenrwhorpurchasersexhtml.
+
+Coults, E., 8; Jann, B. (2011]. Sensitive questions in online surveys: Experimental results
+for the randomized response technique (RRT) and the unmatched count technique
+(UCTJ. Sociological Methods 3r Research 40, 169—193.
+
+Dank1 M,, Khan, 13., Downey, 11., Kotonias, C., Mayer, D., Owens, C., Yu, 1. (2014).
+Ero'matmg the siseandnmcorre ofﬂieandeigraondcomnmialseteconomyhtetghi
+major US cities The Urban Institute. Retrieved from i11lps://www.urhan,org/
+research/publication/estimaung-sree-and-sLruclure-underground-commercial-sex-
+econornyrelghtrmajorrusrci es.
+
+Dillman, D., Smylh, J., 8; Christian, L. {2014]. 1ntemet, Phone, mail, and mixed-mode sar-
+veytc The tailored design method John Wiley & Sons.
+
+Droitcour, J., Caspar, R., Hubbard, M., Parsley T., V her, W., 8r Eeeati, T. [1991}. The
+item count technique as a medrod of indirect questioning: A review of ils develop-
+ment and a case study application. In P. l'. Biemer, R. M. Groves, 1. E. Lyberg, N. A.
+Mallnowetz, & S. Sudman (Eds). Measurement errors in surveys (pp. 185—210). New
+York, NY; John Wiley & Sons, INC.
+
+Dttrschlag, R_, & Goswami, S. [2008]. Deconstructing the donandfor prostﬂhit'm:
+Prelimiimry insightsﬁ'mn interviews with Chicago m whopttrchasesen Chicago, 11.:
+Alliance Against Sexual Exploitation. Retrieved from httpssz
+humanLraiﬁckinghotlineorg/sites/deiaull/liles/DeconslructingrlherDeniandribrr
+PMULuLiori‘BbZO-‘leDCAASEp-df.
+
+Farley, M, Macleoil, .I., Anderson, L, it Golding, J. (2011). Attitudes and social char
+acteristics of men who buy sex in Scotland. Psychological 'i'mama Theory Research
+Practice and Policy, 3(4), 3697383.
+
+Finn, M., 3: Stalans, L. [2016]. How targeted enforcement shapes marketing decisions of
+pimps: Evidence of displacement and innovalion, Victims & Oﬂenders, 11(4),
+578—599.
+
+Cerassi, L. (2015). From expioitauon to industry: Deﬁnitions, risks, and consequences of
+domestic sexual exploitation and sex work among women and girls. Jomml of Human
+Behavior in the Social Enviromnertt, 25, 1715.
+
+Glynn, A. (2013]. What can we lean: with statistical Lrulh serum? Design and analysis of
+the list experiment Public Opinion Qaarteriy, 77, 15%172,
+
+Groves, R. [2006]. Nonresponse rates and nonresponse bias in household surveys. Public
+Opinion Quarteriy, 70, 6467675,
+
+Groves, R., & Peylcheva, E. [2008]. The impact ol'nonreslmnse rates on nonres‘ponse bias.
+
+   
+Dwain.
+
+Public own My, 72, 167—189.
+
+Hickman, M., Cox, 5., Harvey, J., Howa, 5., Farrell, M., Frischer, M., Tilling, K. {2002).
+Fstimating the prevalence of problem drug user in inner London: A discussion of
+three capture-recapture studia. Addiction, 94, 1653—1662.
+
+Holbrook, A., & Krosnidt, J. [2010a). Measuring voter turnout by using the randomised
+response technique: Evidence calling into question the melhod's validity. Public
+Opinion Quarterly, 74, amaze.
+
+Holbrook, A, & Krosniclt, J. [2010b). Social desirability bias in voter turnout reports:
+Tests using the item count technique. Public Opinion Quarterly, 74, 37437.
+
+Holt, T., & Blevins, K. (2007). Examining sex work from the client‘s perspective: Assessing
+Johns using on-Jine data. Deviant Behavior, .28, 333—354.
+
+lmai, K. {2011). Multivariate regression analysis for the item count tedtnique. Joumal of
+the American Statistical Association 106, 407—416.
+
+lmai, K., Park, B., 8: Greene, K. [2015). Using the predicted responses from the list ex-
+periment as explanatory variabla in regrasion models. Political Analysis, 23,
+lsths.
+
+Janson, L, Durchslag, it, 8: Mann, H. (2013). “our yourl'tobby”: An analysis ofonline
+nmvorksfor buyers ofsex inlllirroir. Chicago, IL: AllianceAgainmSexual Exploitation.
+Retrieved from http://www.icasa.org/docs/misc/caase%20report%2l)online
+mbuyerslﬁzbof‘lﬁzﬂsesmﬂinmﬂillinoispdf.
+
+Kosloski, A, Bontrager Ryon, 5., 8: Roe-Sepowitx, D. {2017]. Buying the girl next door: A
+study of solicitations for sex online. Family & Intimate Portner lViolence Quart-My; 9(4),
+53—59.
+
+Krosniclc J., Presser, 5., Feeling, it, & Ritggles, R. {2012). The future of survey wards:
+Challenges and opportunities. "the National Science Foundation advisory Contrniiteefor
+theSocial, BeltavimniandEmnmnichmca‘StnbcormniaecvaancmgSBESmcy
+hearth. Retrieved from http:/r'www.nsf.gov/sbe/AC_Materialsfl‘he_I-‘uture_of_
+Surveyjmeardtpdf.
+
+larsrm, A., Stevens, A., & Wardlaw, G. [1994). Indirect estimates of ‘hidden’ populations:
+capturerrecapture methods to estimate the number of heroin users in the Aus1ralian
+capitol territory. Social Science and Medium, 39, 823—883.
+
+Milrod, C., 8: Monto, M. [2012). The hobbyist and the girlfriend experience: Behaviors
+and preferences of male customers of internet sexual service providers. Deviant
+Behavior, 33(10], 792—810.
+
+Monto, M. [2004). Female prostitution, customers, and violence. Violence Against Women
+10, 160—188.
+
+Mortto, M. (2010). Prostitutes customers: Motives and misconceptions. In R. Weitaer
+[Ed]. Searfor Sale: Pmstimrion, pontogmplty and the sear audio-try (pp. 233—254). and
+ed.). New York, NY: Roulledge.
+
+Monto, M., & Hotaling, N. (2001). Predictors of rape myth acceptance among male cus-
+tomers of street prostitutes. VaﬂenceAgoinst Women, 7, 27¥293.
+
+Monto, M., & McRee, J. [2005). A comparison of the male customers of female s1reet
+prostitutes with national samples ofmen. international Joumol ofoﬁender Therapy and
+Comparative Crammlngy, 49(5), 505—529.
+
+Monto, M., & Milrod, C. (2014). Ordinary or peculiar men? Comparing the customers of
+prostitutes with a nationally representative sample of men. international Journal of
+Oﬂ'ender Therapy and Compomtive Cnllnimology, 58(7), 802$20.
+
+Moran, R., 8: Farley, M. (2019]. Consent, coercion. and culpability: ls prostitution
+
+Journal ofCriInirtal .hrstice 63 [2019) 4148
+
+stigmatized work or an exploitive and violent practice rooted in sex, race, and class
+inequality? Archive: afSenmi Behavior. https://doi.org/l(].1007/s10508-018-1371-8
+Retrieved from.
+
+Morris, M.. Dahl, 13., Breslin, L, Berger, K, Finger, it, a Alejano—Steele, A. (2012).
+Prostitution and Dorm criminal justi'ccsystern: Who pays? Laboratory to Combat
+Human Trafﬁcking. Retrieved from https:l/www.ccasa.orgpr—content/uploads/
+2014/01/Proslitutionranddenversraiminalrjuslicesystemrwhorpayspdl.
+
+Mutx, D. (2011]. Population-based surwy W Princeton, NJ: Princeton University
+Press.
+
+National Academy of Scienoa {2013]. Confronting commercial sexual exploitation and
+sex usiﬁclting of minors in the United States. Retrieved Erom https://www.ojjdp.gov/
+pubs/24331321.pdf.
+
+Pinto, N. (2011). Women's funding network sat ualﬁclting study is junk science. Village
+voice. Retrieved from http://wwwmillagevoicecom/ZU].1-03-23/news/women-
+stunding-network-sex-tramdtingsludy-is—junk-sciencer.
+
+BoerSepotvitz, D., Bonlrager Ryon, S., Hichle, K, Gallagher, J., 8: Hedberg, E. {2015).
+Invisible oll'enders: A study admitting online sex customers. Journal of Human
+Tmﬂicking, 2(4), 2727230.
+
+Rosenfdd, B., Imai, l<., & Shapiro, J. {2015). An empirical validation study of popular
+survey methodologies for sensitive questions. American Journal odeitiraI Science, at},
+783—802.
+
+ShiveJy, M., Kliorys, K, Wheeler, K, 8 Hunt, D. (2012).A noﬁonolovwview ofprnsciitaion
+mtdsero‘qﬂkbing donandreﬁmﬁmeﬁ'mmﬁmlrwt AbtAsrrociates. Retrievedfrom
+https://www.abiassociota.com/sites/del‘ault/ﬁles/migraledfdes/l6b024c0e5l‘e—
+46d9-9ﬁ3d-938293880f1d.pd.f.
+
+Tourangeau, IL, Conrad, F., & Cooper, M. [2013). The science ofweb surveys. New York,
+NY: Oxford University Press.
+
+Tourangeau, It, a Van, T. [2007). Sensitive quesuons in surveys. Psychological Bulletin,
+133', 859—883.
+
+Tsurdtiya, T., Hirai, Y., & Ono, S. {2007). A study of the propenies of the item count
+tedtnique. Public Opinion Quarterly 71, 253—272.
+
+Warwidt, D., St linger, C. [1975). The sample survey: Theory arrdproctice. New York, NY:
+McGraw-Hill.
+
+Weinberg, J., Frame, J., c McFJhattan, D. {2014). Comparing data characterisch and
+results ofan online factorial survey between a population-based and a crowdsource-
+recruited sample. Sociological Science, L 292—310.
+
+Weilxer, R. [2012). Wag prostitution: From illicit vice to lauo‘irl bloom NYU Press.
+
+Wilcox, A, dtristmann, IL, Rogerson, M., a Birch, P. (2009). Tackling the dnmrtdfor
+pmmmﬂmﬁmpidevidamemnmofﬂrepubﬂshedmhﬂmm United
+Kingdom Home Ofﬁce. Retrieved from http://eprinlshudac.uk/id/eprinlﬂ178/.
+
+Wilson, B., St Butler, L. D. (2014). Running a gauntlet A review of victimization and
+violence in the pre-entry, postenlry, and peri [post-exit periods of commercial
+martial exploitation. Psychological Tratuna Theory Research Practice and Policy, 6(5),
+494—504.
+
+Yu, R (2011). Blinded by red lights why trafﬁcking discourse should shift away from sex
+and the "periect victim" paradigm. Berkeley Journal ofGeudet; Law & Justice, 26,
+201F219.
+
