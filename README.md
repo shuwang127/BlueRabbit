@@ -4,6 +4,8 @@
 
 **Option 1:** use Python file
 
+1. Download this repository.
+2. Run the 'run.py'.
 ``` Shell
 $ python run.py
 ```
