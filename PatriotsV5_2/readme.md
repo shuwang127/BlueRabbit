@@ -1,4 +1,6 @@
-## IMPORTANT: Please decompress Demo_Modeling_Code.rar to get Demo_Modeling_Code.mp4, and put mp4 file under 'PatriotsV5_2/media/'
+## IMPORTANT: 
+1. Please decompress Demo_Modeling_Code.rar to get Demo_Modeling_Code.mp4.
+2. Put this .mp4 file under 'PatriotsV5_2/media/'.
 
 ## Environment
 OS win10 64bit
