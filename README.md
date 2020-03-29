@@ -8,6 +8,8 @@
 $ python run.py
 ```
 
+* Please keep the local file structure as this repository.
+
 **Option 2** use Jupyter notebook
 
 1. Open 'run.ipynb' on github, and click 'Open in Colab' button at the top.
