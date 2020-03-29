@@ -1,6 +1,4 @@
 import pandas as pd
-from nltk.tokenize import TweetTokenizer
-from operator import itemgetter
 import numpy as np
 import math
 import string
@@ -34,6 +32,13 @@ def main():
     print('[Info] Get the second-oder probabilities from evaluation.')
     Write2File(probs)
     print('[Info] Analysis done!')
+    print('---------------------------------------------------------------------------------------')
+    filename = dataPath + 'Roe-Sepowitzd et al (2019).txt'
+    print('[Info] Input a new text file: ' + filename + '.')
+    keywords = ReadFile(filename)
+    print('[Info] Get the keywords (w. weights) from the text:')
+    print(keywords)
+    print('=================================== BlueRabbit Team ===================================')
     return
 
 # train the naive bayes model.
@@ -174,6 +179,34 @@ def ReadData():
     contents = SortDict(contents)
     # return
     return locKeywords, raceKeywords, contents
+
+def ReadFile(filename):
+    locKeywords, raceKeywords, contents = ReadData()
+    # get keyword list
+    keywordList = []
+    keywordList.extend([item for item in locKeywords if locKeywords[item] >= 8])
+    keywordList.extend([item for item in raceKeywords if raceKeywords[item] >= 10])
+    keywordList.extend([item for item in contents if contents[item] >= 30])
+    keywordListExt = ['customer', 'white', 'male', 'business model', 'post', 'online', 'advertise', 'transport to',\
+                      'hotel', 'motel', 'apartment, book', 'telephone', 'phone number', 'eastern district of Virginia', \
+                      'Maryland', 'Washington DC', 'strip club', 'bar', 'massage parlor', 'hotspot', 'commercial sex act',\
+                      'sex', 'trafficking', 'high income', 'earnings']
+    keywordList.extend([string.capwords(item) for item in keywordListExt])
+    keywordList = list(set(keywordList))
+    # read file.
+    fp = open(filename, encoding='utf-8')
+    text = fp.read()
+    text = string.capwords(text)
+    # statistic.
+    keywords = dict()
+    for item in keywordList:
+        if (type(item) == str):
+            num = text.count(item)
+            if num != 0:
+                keywords[item] = num
+    keywords = SortDict(keywords)
+    # return
+    return keywords
 
 def Process():
     filename = dataPath + '/datahub.csv'
