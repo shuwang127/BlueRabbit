@@ -1,4 +1,4 @@
-Django==2.2.7
+Django
 xlrd
 jinja2
 Pillow
